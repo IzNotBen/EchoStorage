@@ -1,0 +1,25 @@
+{
+  "type": "main_menu",
+  "id": "main_menu",
+  "_ts": 0,
+  "news": {
+    "offseason": {
+      "texture": "None",
+      "link": "https://en.wikipedia.org/wiki/Lone_Echo"
+    },
+    "sentiment": {
+      "texture": "ui_mnu_news_latest",
+      "link": "https://en.wikipedia.org/wiki/Lone_Echo"
+    }
+  },
+  "splash": {
+    "offseason": {
+      "texture": "ui_menu_splash_screen_poster_a_shutdown_clr",
+      "link": "https://en.wikipedia.org/wiki/Lone_Echo"
+    }
+  },
+  "splash_version": 1,
+  "help_link": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "news_link": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "discord_link": "https://en.wikipedia.org/wiki/Lone_Echo"
+}

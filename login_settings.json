@@ -1,0 +1,11 @@
+{
+  "iap_unlocked": true,
+  "remote_log_social": true,
+  "remote_log_warnings": true,
+  "remote_log_errors": true,
+  "remote_log_rich_presence": true,
+  "remote_log_metrics": true,
+  "env": "live",
+  "matchmaker_queue_mode": "disabled",
+  "config_data": {}
+}

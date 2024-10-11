@@ -1,0 +1,19 @@
+{
+  "type": "eula",
+  "lang": "en",
+  "version": 1,
+  "version_ga": 1,
+  "text": "EchoNakama Developer Tree",
+  "text_ga": "Your connection to this database should be intentional, and you should have only recieved the admin and publisher key from a trusted authority. If you are not supposed to be here, or do not know how you got here, please DM Sprockee or marcel_One on discord.",
+  "mark_as_read_profile_key": "legal|eula_version",
+  "mark_as_read_profile_key_ga": "legal|game_admin_version",
+  "link_cc": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_pp": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_vr": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_cp": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_ec": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_ea": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_ga": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_tc": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_jp": "https://en.wikipedia.org/wiki/Lone_Echo"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "eula",
+  "lang": "ga",
+  "version": 1,
+  "version_ga": 1,
+  "text": "Placeholder to prevent servers from hanging, you should only see this in client logs or server logs.",
+  "text_ga": "this is the subtext for the menu which should never be shown, just has to be here otherwise the server will not finish connecting.",
+  "mark_as_read_profile_key": "legal|eula_version",
+  "mark_as_read_profile_key_ga": "legal|game_admin_version",
+  "link_cc": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_pp": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_vr": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_cp": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_ec": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_ea": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_ga": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_tc": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "link_jp": "https://en.wikipedia.org/wiki/Lone_Echo"
+}
